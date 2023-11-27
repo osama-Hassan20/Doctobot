@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "doctobot-chatboot-kxof",
+  "private_key_id": "82ba6cb1e3a5917d3f998ffde607b2b86c8f703d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCWFp5VviRYVGbA\nh1rOkTmqX2bQTQEBxRPa832W83T7d1fkomJJAvuTMV0N2CdozwiVMEvncT/5roSv\nOpRG6QdfMqLP0ibZrtU/QQISKVGmF+Ga7wgAbLj8Q8B3EX6uDvYN9Lc+kpPEwOf9\nix4Q++qaQ8Q8rqBYh46FXXp+J9dGCdp9BH6ysN/rhvyoLlchCXhXrckDTAiH0fCP\nyfxVK3hommM3ySGYi505Qy96iMpRY0ENj3ZeT+7LNPpDoAX1sYdCXktu2hUp/GK+\n3/ZDF9iTToH4U8Gu7pY/I87nuHF+Fj0QYwkY0Oem4+eic/rULGJwN25iuiI6zfME\nMFC8L57tAgMBAAECggEALNSZu8O9SHMBdB2aBpyDTHwNkkeF9vjeauaTC10yApDN\nvJmyYNuWuIskn+eCMgCxMBrKeVmvAc3ajRqiwqGFVa6iyg+cEiZyROAOlc0oucNl\nXGlsiu/uu08jdI1RuPz4CwgfGf4fTERQpz+AHhOZKjX2rid89qSa8gQPfBI7b4w5\nncELx2Uk1X4PjZKKAGKk7vlWg3q/6B0uCubsF1k/BjvmZNGb0tLAZ2CI+bY1Ij6R\n2ltf2y0eknO23aybBcAYCrowxEIMToF+DR/uTjGgYdQ4EM4N4Fc8XtcVbuYnvrhk\n651k0N1b6R1lkMXkFUg9EUvASAdq2d5/ZuaKQ41+wwKBgQDPy87HLoRU3ukzkMvQ\nwJ8C5Cn0EkithCP7h+g1YU75k1cSHyQn3DZPpbj6xPlrEPhp7f6bWs6WIpxImIvv\n8KOIyxPYa2TiWpglmUvWfBZVpCby0tvCToFbEyzDWAG8DqsCxql/C3ziIOz1tZut\nwB3MJgxmzk/lRutNAJzDfIpLNwKBgQC458YcyIMJBGeu2XYbjAO69Pxk44Ai/Dy8\nbGc1LGDPNvC5RPOC0nxS00YyqnfGjvwXdZmnaK/OxIobve4eh1Ge78jWaQb10nlV\nDRJMJd8advAIfipx+GL4EdmGh67T3k1Ahp92p5bFvowZUbMhRdN1c5ShRtsZXxPg\nHnOYNNcg+wKBgEgkaRDL/JN+pJYLgkdiaJJXZp1fL65WPyvXnm3R79pEJimbeDEC\nijSSw6sEcdeTF7unLgr/ttN3Bq1JkOPnts8KOkSb3HWdoE8FbsfzYsmu6PrK7BME\nsHJPMO5NAqUoroSTNktuUJgteDdCKt9i4LV8zDdxD1n5ij28pbBU76p3AoGAb+vz\nEfcYwbuF2uNMR05P77lckODX7dVKGi9vpVLwYlz6BtrCnvwzPpsd0Ys3pttjofuP\n/zIxwHFcu4ASgy4bbJ3trkKycNduk9muqqL90XIOxsU/ge78UPXU+kZkv1++2QDj\nwxmb/KPi/2xhhhFS9rP4UkqmUkwnprAn/gh180MCgYEAhRkzICVxry6pE5xPBJsC\nquqR5v+GdMvMJ8RhOf1ecMCgjtj+QVtA+IZojiIgvd9aWp7k85lq47ZRLTphNuXN\nW5tnPkkwVwV2ljvl95ECoAsT4YEyT7cOsc3/dl8avdBxD8thirCbqpp0G4kb3GpG\nNoIpVrDereUEMOjmKqBFQvo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ambot-379@doctobot-chatboot-kxof.iam.gserviceaccount.com",
+  "client_id": "103470316276986346913",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ambot-379%40doctobot-chatboot-kxof.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
